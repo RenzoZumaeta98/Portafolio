@@ -17,6 +17,7 @@ namespace Portafolio.Controllers
         {
             return View(); //Si esta vacio, busca la vista con el nombre de la funcion ("Index()")
                             //Si se quiere buscar otra vista, colocar View("NombreDeVista")
+                            //
         }
 
         public IActionResult Privacy()
