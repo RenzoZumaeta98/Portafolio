@@ -15,9 +15,17 @@ namespace Portafolio.Controllers
 
         public IActionResult Index()
         {
-            return View(); //Si esta vacio, busca la vista con el nombre de la funcion ("Index()")
+            var persona = new Persona()
+            {
+                Nombre = "Renzo Zumaeta",
+                Edad = 26
+            };
+            ViewBag.Nombre = "Renzo Zumaeta Pisango";
+            ViewBag.Edad = 25;
+
+            return View(persona); //Si esta vacio, busca la vista con el nombre de la funcion ("Index()")
                             //Si se quiere buscar otra vista, colocar View("NombreDeVista")
-                            //
+            
         }
 
         public IActionResult Privacy()

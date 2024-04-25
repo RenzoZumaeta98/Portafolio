@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "QpbUI7eDTqdpF3X6v/O5O9rIWobZfSA1vSabO4U4i5Q=",
+  "Hash": "L8wae5YKj4AoOnvEGUQHBKjlCtpPTyFmxMc+Ijiv0Pk=",
   "Source": "Portafolio",
   "BasePath": "_content/Portafolio",
   "Mode": "Default",
@@ -55,6 +55,25 @@
       "OriginalItemSpec": "C:\\Users\\renzo\\Desktop\\PROGRAM\\Cursos\\CursoASP.NET(MVC)Udemy\\Proyectos\\Portafolio\\Portafolio\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Portafolio.bundle.scp.css"
     },
     {
+      "Identity": "C:\\Users\\renzo\\Desktop\\PROGRAM\\Cursos\\CursoASP.NET(MVC)Udemy\\Proyectos\\Portafolio\\Portafolio\\wwwroot\\css\\custom.css",
+      "SourceId": "Portafolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\renzo\\Desktop\\PROGRAM\\Cursos\\CursoASP.NET(MVC)Udemy\\Proyectos\\Portafolio\\Portafolio\\wwwroot\\",
+      "BasePath": "_content/Portafolio",
+      "RelativePath": "css/custom.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\custom.css"
+    },
+    {
       "Identity": "C:\\Users\\renzo\\Desktop\\PROGRAM\\Cursos\\CursoASP.NET(MVC)Udemy\\Proyectos\\Portafolio\\Portafolio\\wwwroot\\css\\site.css",
       "SourceId": "Portafolio",
       "SourceType": "Discovered",
@@ -91,6 +110,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\renzo\\Desktop\\PROGRAM\\Cursos\\CursoASP.NET(MVC)Udemy\\Proyectos\\Portafolio\\Portafolio\\wwwroot\\images\\FOTOCV.png",
+      "SourceId": "Portafolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\renzo\\Desktop\\PROGRAM\\Cursos\\CursoASP.NET(MVC)Udemy\\Proyectos\\Portafolio\\Portafolio\\wwwroot\\",
+      "BasePath": "_content/Portafolio",
+      "RelativePath": "images/FOTOCV.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\FOTOCV.png"
     },
     {
       "Identity": "C:\\Users\\renzo\\Desktop\\PROGRAM\\Cursos\\CursoASP.NET(MVC)Udemy\\Proyectos\\Portafolio\\Portafolio\\wwwroot\\js\\site.js",

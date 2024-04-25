@@ -5,12 +5,20 @@
       "PackagePath": "staticwebassets\\Portafolio.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\renzo\\Desktop\\PROGRAM\\Cursos\\CursoASP.NET(MVC)Udemy\\Proyectos\\Portafolio\\Portafolio\\wwwroot\\css\\custom.css",
+      "PackagePath": "staticwebassets\\css\\custom.css"
+    },
+    {
       "Id": "C:\\Users\\renzo\\Desktop\\PROGRAM\\Cursos\\CursoASP.NET(MVC)Udemy\\Proyectos\\Portafolio\\Portafolio\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
       "Id": "C:\\Users\\renzo\\Desktop\\PROGRAM\\Cursos\\CursoASP.NET(MVC)Udemy\\Proyectos\\Portafolio\\Portafolio\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\renzo\\Desktop\\PROGRAM\\Cursos\\CursoASP.NET(MVC)Udemy\\Proyectos\\Portafolio\\Portafolio\\wwwroot\\images\\FOTOCV.png",
+      "PackagePath": "staticwebassets\\images\\FOTOCV.png"
     },
     {
       "Id": "C:\\Users\\renzo\\Desktop\\PROGRAM\\Cursos\\CursoASP.NET(MVC)Udemy\\Proyectos\\Portafolio\\Portafolio\\wwwroot\\js\\site.js",
