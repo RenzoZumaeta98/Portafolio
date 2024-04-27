@@ -4,3 +4,17 @@
     border-radius:50%;
     border: solid black;
 }
+
+.cabecera{
+    font-weight:bold;
+}
+
+.habilidades ul{
+    list-style:none;
+    padding-left: 0;
+}
+
+.habilidades i{
+    color: gray ;
+    font-size: 35px;
+}

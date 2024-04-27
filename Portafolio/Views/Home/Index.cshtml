@@ -14,10 +14,8 @@
 
 }
 
-<div class="text-center">
+<div class="text-center bg-primary">
     <h1 class="display-4">@ConvertirEnMayusculas(Model.Nombre) (@ViewBag.Edad or @Model.Edad)</h1>
-    <h1 class="display-4">@ConvertirEnMayusculas(Model.Nombre) (@ViewBag.Edad or @Model.Edad)</h1>
-
     <h4>Hora de ingreso @hoy.ToString("dd/MM/yyyy hh:mm:ss tt")</h4>
 
     <h4>Familiares</h4>
@@ -28,7 +26,8 @@
         }
     </ul>
 
-    @if(Model.Edad >= 18){
+    @if (Model.Edad >= 18)
+    {
         <h4>Eres mayor de edad. Por favor entra <button>Entrar</button></h4>
 
     }
@@ -40,8 +39,64 @@
 
     <h2>Desarrollador Full stack especializado en tecnogloías .Net</h2>
 
-    <img id="foto" src="~/images/fotocv.png" alt="Foto de Renzo" />
+    @* <img id="foto" src="~/images/fotocv.png" alt="Foto de Renzo" /> *@
 
 
-    
 </div>
+
+<div style="margin-top: -105px">
+    <div class="row justify-content-md-center text-center">
+
+        <div class="col col-3 bg-white habilidades pt-2" style="border-radius:15px 0 0 15px; box-shadow:0 5px 5px 0 gray;">
+            <i class="bi bi-file-earmark-code"></i>
+            <h3>Back-end</h3>
+            <p>
+                Trabajo desde el desarrollo, pruebas automáticas y puestas en prodcucción con entregas continuas.
+            </p>
+            <p class="text-primary cabecera">
+                Stack:
+            </p>
+            <p>
+                ASP.NET Core, SQL Server
+            </p>
+            <p class="text-primary cabecera">
+                Experiencia:
+            </p>
+
+            <ul>
+                <li>Web APIs</li>
+                <li>Web APIs</li>
+                <li>Web APIs</li>
+                <li>Web APIs</li>
+            </ul>
+
+        </div>
+        <div class="col col-3 bg-white habilidades pt-2" style="border-radius: 0 15px 15px 0; box-shadow:0 5px 5px 0 gray;">
+            <i class="bi bi-filetype-html"></i>
+            <h3>Front-End</h3>
+            <p>
+                Puedo crear front-ends que se adapten completamente a las preferencias del usuario y al proyecto.
+            </p>
+
+            <p class="text-primary cabecera">
+                Stack:
+            </p>
+            <p>
+                ASP.NET Core, SQL Server
+            </p>
+            <p class="text-primary cabecera">
+                Experiencia:
+            </p>
+
+            <ul>
+                <li>Web APIs</li>
+                <li>Web APIs</li>
+                <li>Web APIs</li>
+                <li>Web APIs</li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+
+
